@@ -1,53 +1,125 @@
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.pdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\com.companyname.taswiq4u.apk
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\com.companyname.taswiq4u-Signed.apk
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Design.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v4.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.pdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.pdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.xml
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.xml
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.csprojResolveAssemblyReference.cache
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.App.xaml.g.cs
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.AboutPage.xaml.g.cs
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.ItemsPage.xaml.g.cs
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.ItemDetailPage.xaml.g.cs
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.NewItemPage.xaml.g.cs
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.dll
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.pdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\bin\com.companyname.taswiq4u.apk
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\layout\tabbar.xml
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\layout\toolbar.xml
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\values\styles.xml
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable\slideout.png
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-hdpi\profile_generic.png
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-mdpi\profile_generic.png
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xhdpi\profile_generic.png
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xxhdpi\profile_generic.png
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xxxhdpi\profile_generic.png
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\R.cs.flag
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\uploadflags.txt
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\taswiq4u.Android.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-c:\users\mohamed\documents\visual studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll.config
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.pdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\com.companyname.taswiq4u.apk
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\com.companyname.taswiq4u-Signed.apk
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\MySql.Data.CF.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.App.xaml.g.cs
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.AboutPage.xaml.g.cs
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.ItemsPage.xaml.g.cs
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.ItemDetailPage.xaml.g.cs
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.NewItemPage.xaml.g.cs
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.Main.xaml.g.cs
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.dll
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.pdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\bin\com.companyname.taswiq4u.apk
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\values\styles.xml
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable\slideout.png
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-hdpi\profile_generic.png
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-mdpi\profile_generic.png
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xhdpi\profile_generic.png
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xxhdpi\profile_generic.png
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xxxhdpi\profile_generic.png
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\R.cs.flag
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\uploadflags.txt
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.csprojResolveAssemblyReference.cache
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\taswiq4u.Android.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\MohamedAbb\Documents\Visual Studio 2015\Projects\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll.config
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\com.companyname.taswiq4u.apk
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\com.companyname.taswiq4u-Signed.apk
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.csprojResolveAssemblyReference.cache
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.App.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.AboutPage.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.ItemsPage.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.ItemDetailPage.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.NewItemPage.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.Main.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Android.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\bin\com.companyname.taswiq4u.apk
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\layout\tabbar.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\layout\toolbar.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\values\styles.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable\slideout.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-hdpi\profile_generic.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-mdpi\profile_generic.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xhdpi\profile_generic.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xxhdpi\profile_generic.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable-xxxhdpi\profile_generic.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\R.cs.flag
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\uploadflags.txt
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\taswiq4u.Android.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\taswiq4u.Android.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable\splash.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\res\drawable\icon.png
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.MenuPage.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\taswiq4u.Droid.Views.Profile.xaml.g.cs
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+D:\Main\Share it\Mohsen\taswiq4u\taswiq4u\taswiq4u.Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb

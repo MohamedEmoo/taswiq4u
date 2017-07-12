@@ -100,6 +100,8 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "taswiq4u.Android.dll" comes first in this list. */
 		"taswiq4u.Android.dll",
 		"FormsViewGroup.dll",
+		"ImageCircle.Forms.Plugin.Abstractions.dll",
+		"ImageCircle.Forms.Plugin.Android.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
@@ -112,8 +114,9 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
+		"MySql.Data.CF.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_24";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
 }

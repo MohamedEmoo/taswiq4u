@@ -4,7 +4,8 @@ using Android.OS;
 
 namespace taswiq4u.Droid
 {
-    [Activity(Label = "taswiq4u.Android", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Label = "taswiq4u.Android", Theme = "@style/MyTheme", Icon = "@drawable/icon",
+     MainLauncher = false, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)

@@ -1,7 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
-
+using MySql.Data.MySqlClient;
+using taswiq4u.Droid.Annotations;
 using taswiq4u.Helpers;
 using taswiq4u.Models;
 using taswiq4u.Views;
@@ -10,52 +14,38 @@ using Xamarin.Forms;
 
 namespace taswiq4u.ViewModels
 {
-	public class ItemsViewModel : BaseViewModel
-	{
-		public ObservableRangeCollection<Item> Items { get; set; }
-		public Command LoadItemsCommand { get; set; }
+    public class ItemsViewModel : INotifyPropertyChanged
+    {
+        public IList<Item> Items { get; set; }
 
-		public ItemsViewModel()
-		{
-			Title = "Browse";
-			Items = new ObservableRangeCollection<Item>();
-			LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
+        public ItemsViewModel()
+        {
+            Database database = new Database();
+            database.Openconnection();
+            Items=new List<Item>();
+            using (MySqlCommand cmd = new MySqlCommand
+                ("SELECT * FROM users", database.sqlconn))
+            {
 
-			MessagingCenter.Subscribe<NewItemPage, Item>(this, "AddItem", async (obj, item) =>
-			{
-				var _item = item as Item;
-				Items.Add(_item);
-				await DataStore.AddItemAsync(_item);
-			});
-		}
+                MySqlDataReader Reader = cmd.ExecuteReader();
+                while (Reader.Read()) // this part is wrong somehow
+                {
+                    Items.Add(new Item {Text = Reader.GetString(4),Description = Reader.GetString(5)});
+                }
+                Reader.Close();
 
-		async Task ExecuteLoadItemsCommand()
-		{
-			if (IsBusy)
-				return;
+                database.Closeconnection();
+            }
 
-			IsBusy = true;
 
-			try
-			{
-				Items.Clear();
-				var items = await DataStore.GetItemsAsync(true);
-				Items.ReplaceRange(items);
-			}
-			catch (Exception ex)
-			{
-				Debug.WriteLine(ex);
-				MessagingCenter.Send(new MessagingCenterAlert
-				{
-					Title = "Error",
-					Message = "Unable to load items.",
-					Cancel = "OK"
-				}, "message");
-			}
-			finally
-			{
-				IsBusy = false;
-			}
-		}
-	}
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        [NotifyPropertyChangedInvocator]
+        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+    }
 }

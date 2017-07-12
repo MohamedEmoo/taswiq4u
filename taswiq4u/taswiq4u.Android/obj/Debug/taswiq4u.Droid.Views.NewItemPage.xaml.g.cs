@@ -11,8 +11,8 @@
 namespace taswiq4u.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\mohamed\\documents\\visual studio 2015\\Projects\\taswiq4u\\taswiq4u\\taswiq4u" +
-        "\\Views\\NewItemPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\MohamedAbb\\Documents\\Visual Studio 2015\\Projects\\taswiq4u\\taswiq4u\\taswi" +
+        "q4u\\Views\\NewItemPage.xaml")]
     public partial class NewItemPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
